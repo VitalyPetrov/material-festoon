@@ -1,0 +1,21 @@
+{
+    "name": "material-festoon",
+    "displayName": "material-festoon",
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.68.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "material-festoon",
+                "uiTheme": "vs-dark",
+                "path": "./themes/material-festoon-color-theme.json"
+            }
+        ]
+    }
+}
