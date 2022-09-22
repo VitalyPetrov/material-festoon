@@ -1884,7 +1884,7 @@
 		"list.activeSelectionForeground": "#ffffff",
 		"tree.indentGuidesStroke": "#585858",
 		"list.dropBackground": "#383b3d",
-		"list.highlightForeground": "#0097fb",
+		"list.highlightForeground": "#0097fb", // 0097fb
 		"list.focusBackground": "#062f4a",
 		"list.focusForeground": "#cccccc",
 		"listFilterWidget.background": "#653723",
@@ -2027,7 +2027,7 @@
 		"editorWidget.background": "#252526",
 		"editorWidget.resizeBorder": "#5F5F5F",
 		"pickerGroup.border": "#3f3f46",
-		"pickerGroup.foreground": "#3794ff",
+		"pickerGroup.foreground": "#332097",
 		"debugToolBar.background": "#333333",
 		"debugToolBar.border": "#474747",
 		"notifications.foreground": "#cccccc",
