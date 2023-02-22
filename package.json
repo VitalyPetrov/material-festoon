@@ -1,14 +1,19 @@
 {
     "name": "material-festoon",
-    "displayName": "material-festoon",
-    "description": "",
-    "version": "0.0.1",
+    "displayName": "Material Festoon Theme",
+    "description": "Material Festoon Color Scheme",
+    "publisher": "vitpetrov",
+    "version": "1.0.0",
     "engines": {
         "vscode": "^1.68.0"
     },
     "categories": [
         "Themes"
     ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/VitalyPetrov/material-festoon.git"
+    },
     "contributes": {
         "themes": [
             {
@@ -17,5 +22,7 @@
                 "path": "./themes/material-festoon-color-theme.json"
             }
         ]
-    }
+    },
+    "author": "Vitaly Petrov <vitaliypetrov18@gmail.com>",
+    "license": "MIT"
 }
