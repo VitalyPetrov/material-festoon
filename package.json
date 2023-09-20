@@ -3,7 +3,7 @@
     "displayName": "Material Festoon Theme",
     "description": "Material Festoon Color Scheme",
     "publisher": "VitPetrov",
-    "version": "1.2.0",
+    "version": "1.2.1",
     "engines": {
         "vscode": "^1.68.0"
     },

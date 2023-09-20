@@ -1823,6 +1823,13 @@
 				"foreground": "#d4d4d4"
 			}
 		},
+        {
+            "name": "entity.name.tag.yaml",
+            "scope": "entity.name.tag.yaml",
+            "settings": {
+                "foreground": "#64AAE7"
+            }
+        },
 		{
 			"scope": [
 				"constant.language.symbol.elixir"
