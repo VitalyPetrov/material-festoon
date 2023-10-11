@@ -23,7 +23,7 @@
             }
         ]
     },
-    "icon": "assets/extension-marketplace-icon.png",
+    "icon": "assets/material-fastoon-icon.png",
     "author": "Vitaly Petrov <vitaliypetrov18@gmail.com>",
     "license": "MIT"
 }
