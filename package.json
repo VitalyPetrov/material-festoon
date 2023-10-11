@@ -3,7 +3,7 @@
     "displayName": "Material Festoon Theme",
     "description": "Material Festoon Color Scheme",
     "publisher": "VitPetrov",
-    "version": "1.2.1",
+    "version": "1.3.1",
     "engines": {
         "vscode": "^1.68.0"
     },
@@ -23,6 +23,7 @@
             }
         ]
     },
+    "icon": "assets/extension-marketplace-icon.png",
     "author": "Vitaly Petrov <vitaliypetrov18@gmail.com>",
     "license": "MIT"
 }
